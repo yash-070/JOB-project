@@ -1,0 +1,97 @@
+Apple 52.00 0.3 0.2 13.8
+Banana 89.00 1.1 0.3 22.8
+Orange 47.00 0.9 0.1 11.8
+Broccoli 35.00 2.8 0.4 6.6
+Carrot 41.00 0.9 0.2 9.6
+Chicken Breast 165.00 31.0 3.6 0.0
+Salmon 208.00 20.4 13.4 0.0
+Egg 155.00 12.6 10.6 1.1
+Rice  130.00 2.7 0.3 28.2
+Pasta 131.00 5.2 1.1 25.0
+Almonds 579.00 21.2 49.9 21.6
+Avocado 160.00 2.0 14.7 8.5
+Potato 77.00 2.0 0.1 17.5
+Spinach 23.00 2.9 0.4 3.6
+Oats 389.00 16.9 6.9 66.3
+Milk  61.00 3.2 3.3 4.8
+Yogurt  61.00 3.5 3.3 4.7
+Tomato 18.00 0.9 0.2 3.9
+Bread  265.00 9.0 3.2 49.0
+Blueberries 57.00 0.7 0.3 14.5
+Strawberries 33.00 0.7 0.3 7.7
+Grapes 69.00 0.7 0.2 18.1
+Watermelon 30.00 0.6 0.2 7.6
+Kale 49.00 4.3 0.9 8.8
+Cauliflower 25.00 1.9 0.3 5.0
+Green Beans 31.00 1.8 0.2 7.0
+Tuna 184.00 29.9 6.3 0.0
+Shrimp 99.00 20.1 0.5 0.9
+Quinoa 368.00 14.1 6.1 64.2
+Lentils 352.00 24.6 1.1 63.4
+Chickpeas 364.00 19.3 6.0 60.7
+Black Beans 341.00 21.6 1.4 62.4
+Peanut Butter 588.00 22.2 51.4 22.3
+Walnuts 654.00 15.2 65.2 13.7
+Cheddar Cheese 403.00 22.9 33.3 3.1
+Butter 717.00 0.9 81.1 0.1
+Olive Oil 884.00 0.0 100.0 0.0
+Corn 86.00 3.3 1.4 18.7
+Peas 81.00 5.4 0.4 14.5
+Sweet Potato 86.00 1.6 0.1 20.1
+Mango 60.00 0.8 0.4 15.0
+Pineapple 50.00 0.5 0.1 13.1
+Kiwi 61.00 1.1 0.5 14.7
+Peach 39.00 0.9 0.3 9.5
+Pear 57.00 0.4 0.1 15.2
+Zucchini 17.00 1.2 0.3 3.1
+Cucumber 15.00 0.7 0.1 3.6
+Bell Pepper 20.00 0.9 0.2 4.6
+Mushrooms 22.00 3.1 0.3 3.3
+Onion 40.00 1.1 0.1 9.3
+Garlic 149.00 6.4 0.5 33.1
+Tofu 76.00 8.1 4.8 1.9
+Soy Milk 54.00 3.3 1.8 6.3
+Brown Rice 123.00 2.7 0.9 25.6
+Barley 354.00 12.5 2.3 73.5
+Bulgur 342.00 12.3 1.3 75.9
+Couscous 376.00 12.8 0.6 77.4
+Lettuce 15.00 1.4 0.2 2.9
+Arugula 25.00 2.6 0.7 3.7
+Brussels Sprouts 43.00 3.4 0.3 9.0
+Asparagus 20.00 2.2 0.1 3.9
+Eggplant 25.00 1.0 0.2 5.9
+Cabbage 25.00 1.3 0.1 5.8
+Celery 16.00 0.7 0.2 3.0
+Radish 16.00 0.7 0.1 3.4
+Green Onion 32.00 1.8 0.2 7.3
+Pomegranate 83.00 1.7 1.2 18.7
+Grapefruit 42.00 0.8 0.1 10.7
+Cherries 50.00 1.0 0.3 12.2
+Raspberries 52.00 1.2 0.7 11.9
+Blackberries 43.00 1.4 0.5 9.6
+Apricot 48.00 1.4 0.4 11.1
+Plum 46.00 0.7 0.3 11.4
+Nectarine 44.00 1.1 0.3 10.6
+Cantaloupe 34.00 0.8 0.2 8.2
+Honeydew Melon 36.00 0.5 0.1 9.1
+Cod 82.00 17.8 0.7 0.0
+Scallops 111.00 20.5 0.8 5.4
+Lobster 77.00 16.5 0.8 0.0
+Crab 83.00 17.9 0.7 0.0
+Kidney Beans 333.00 23.6 0.8 60.0
+Navy Beans 337.00 22.3 1.5 60.8
+Pinto Beans 347.00 21.4 1.2 62.6
+Cashews 553.00 18.2 43.9 30.2
+Pecans 691.00 9.2 72.0 13.9
+Hazelnuts 628.00 15.0 60.8 16.7
+Sunflower Seeds 584.00 20.8 51.5 20.0
+Pumpkin Seeds 559.00 30.2 49.1 10.7
+Flaxseeds 534.00 18.3 42.2 28.9
+Chia Seeds 486.00 16.5 30.7 42.1
+Cottage Cheese 98.00 11.1 4.3 3.4
+Greek Yogurt 59.00 10.0 0.4 4.0
+Mozzarella Cheese 280.00 22.2 22.4 2.2
+Parmesan Cheese 431.00 38.5 28.6 4.1
+Honey 304.00 0.3 0.0 82.4
+Maple Syrup 260.00 0.0 0.1 67.0
+
